@@ -1,2 +1,32 @@
-# tech-interview
-This repository was created in the process of preparing for a Tech interview.
+# techInterview-study
+🌎 this repository is for technical interview preparation
+
+
+--------------------
+
+## 📚 Content
+
+<details>
+  <summary><h3>1. Web Content</h3></summary>
+<div markdown="1">
+
+> 1. [[Web-HTTP]: HTTP의 GET에 대해서 어쩌고 ~~](https://github.com/NBC-TEAM3/techInterview-study/blob/main/web/http/get-method.md)
+> 2. [[Web-HTTP]: HTTP의 POST에 대해서 어쩌고 ~~](https://github.com/choichanhyeok/techInterview-study/blob/main/web/http/post-method.md)
+
+</details>
+
+<details>
+  <summary><h3>2. DB Content</h3></summary>
+<div markdown="1">
+
+> 1. -
+
+</details>
+
+<details>
+  <summary><h3>3. Network Content</h3></summary>
+<div markdown="1">
+
+> 1.-
+
+</details>
