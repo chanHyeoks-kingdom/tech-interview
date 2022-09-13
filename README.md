@@ -10,8 +10,8 @@
   <summary><h3>1. Web Content</h3></summary>
 <div markdown="1">
 
-> 1. [[Web-HTTP]: HTTP의 GET에 대해서](https://github.com/NBC-TEAM3/techInterview-study/blob/main/web/http/get-method.md)
-> 2. [[Web-HTTP]: HTTP의 POST에 대해서](https://github.com/choichanhyeok/techInterview-study/blob/main/web/http/post-method.md)
+> 1. [[Web-HTTP]: HTTP의 GET에 대해서](https://github.com/chanHyeoks-kingdom/tech-interview/blob/main/web/http/get-method.md)
+> 2. [[Web-HTTP]: HTTP의 POST에 대해서](https://github.com/chanHyeoks-kingdom/tech-interview/blob/main/web/http/post-method.md)
 
 </details>
 
