@@ -1,0 +1,8 @@
+## Dispatcher Servlet의 동작 원리가 뭐에요??
+
+```
+ (1) Dispathcer Servlet는 front-controller 패턴이라고 해서 컨트롤러 앞에서 HTTP를 통해 들어오는 모든 Request를 받아줍니다.
+ (2) 서블릿이 파싱해준 reqeust url을 보고 'HandlerMapping' 매핑된 컨트롤러를 Dispatcher S
+ 
+
+```
