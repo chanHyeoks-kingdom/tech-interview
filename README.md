@@ -23,8 +23,7 @@
 > 1. [[JPA]: ORM에 대해서](https://github.com/chanHyeoks-kingdom/tech-interview/blob/main/db/ORM.md)
 > 2. [[database] database connection pool](https://github.com/chanHyeoks-kingdom/tech-interview/blob/main/db/database%20connect_pool.md)
 > 3. [[database] 정규화](https://github.com/chanHyeoks-kingdom/tech-interview/blob/main/db/%EC%A0%95%EA%B7%9C%ED%99%94.md)
-> 4. [databse] 트랜잭션](https://github.com/chanHyeoks-kingdom/tech-interview/blob/main/db/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
-> 5. []
+> 4. [[databse] 트랜잭션](https://github.com/chanHyeoks-kingdom/tech-interview/blob/main/db/%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98.md)
 
 </details>
 
@@ -51,8 +50,8 @@
 
 
 <details>
-  <summary><h3>4. InterView</h3></summary>
-<div markdown="4">
+  <summary><h3>5. InterView</h3></summary>
+<div markdown="5">
 
 > 1. [[Interview]: Demo](https://github.com/chanHyeoks-kingdom/tech-interview/blob/main/interview/basic.md)
 
