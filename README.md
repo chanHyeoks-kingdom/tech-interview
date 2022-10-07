@@ -48,10 +48,18 @@
 
 </details>
 
+<details>
+  <summary><h3>5. JAVAt</h3></summary>
+<div markdown="5">
+
+> 1. [[Java]: String과 StringBuffer의 차이점](https://github.com/chanHyeoks-kingdom/tech-interview/blob/main/java/String%EA%B3%BC%20StringBuffer%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90.md)
+> 2. [[Java]: final, finally, finalize의 차이](https://github.com/chanHyeoks-kingdom/tech-interview/blob/main/java/final%2C%20finally%2C%20finaalize().md)
+
+</details>
 
 <details>
-  <summary><h3>5. InterView</h3></summary>
-<div markdown="5">
+  <summary><h3>6. InterView</h3></summary>
+<div markdown="6">
 
 > 1. [[Interview]: Demo](https://github.com/chanHyeoks-kingdom/tech-interview/blob/main/interview/basic.md)
 
