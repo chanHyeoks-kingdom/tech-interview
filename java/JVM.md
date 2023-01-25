@@ -30,3 +30,6 @@ Heap은 New/Young Generation이랑 Old, 그리고 Parmanent Generation으로 나
 New/Young의 영역에서 MinorGC가, Old영역에 Major GC가 일어납니다.  
 
 ```
+
+
++참조: https://coding-factory.tistory.com/827
